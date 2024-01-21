@@ -4,7 +4,7 @@ from distutils.core import setup
 setup(
     name = 'pychunom',
     packages = ['pychunom'],
-    version = '0.1',
+    version = '0.2',
     license='MIT',
     description = 'Convert Quoc Ngu to Chu Nom',
     author = 'CjangCjengh',
